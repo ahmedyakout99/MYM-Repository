@@ -1,4 +1,6 @@
 #include<iostream>
+#include"functionmax.h"
+#include"functionMYM.h"
 using namespace std;
 int main()
 {
